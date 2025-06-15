@@ -1,2 +1,2 @@
 # StyleLens
-Search by sight, shop with insight. StyleLens blends visual similarity and keyword matching into a seamless fashion finder.
+Search by sight, shop with insight. StyleLens blends visual similarity and keyword matching into a seamless fashion finder. Drag-and-drop an image or type a search term to retrieve your top-10 picks from a 500-item catalog—each tagged with match%, price, category and a “favorite” boost. Under the hood, ResNet50 embeddings power a FAISS index for sub-second image search, Postgres holds metadata and prefs, and a Next.js/TypeScript frontend delivers a clean, responsive UI—all with zero authentication.
